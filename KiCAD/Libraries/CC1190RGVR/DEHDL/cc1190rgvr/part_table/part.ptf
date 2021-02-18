@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CC1190RGVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CC1190RGVR" (!) = "", "QFN65P400X400X100-17N-D", "Quad Flat No-Lead", "CC1190RGVR", "https://www.arrow.com/en/products/cc1190rgvr/texas-instruments", "595-CC1190RGVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CC1190RGVR?qs=%2Fqzd9s%252BcLd42dnkMuKJeGg%3D%3D", "850 - 950MHz RF Front End", "http://www.ti.com/lit/gpn/cc1190", "1 mm"
+END_PART
+
+END.

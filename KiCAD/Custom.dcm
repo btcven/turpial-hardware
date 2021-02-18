@@ -1,0 +1,124 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3.6V
+D Power symbol creates a global label with name "+3.6V"
+K power-flag
+$ENDCMP
+#
+$CMP +3V6
+D Power symbol creates a global label with name "+3V6"
+K power-flag
+$ENDCMP
+#
+$CMP 2118732-2
+D Shield Frame
+K shield, frame, base
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2118732%7FA2%7Fpdf%7FEnglish%7FENG_CD_2118732_A2.pdf%7F2118732-2
+$ENDCMP
+#
+$CMP BMIS-202-F
+D EMI Gaskets, Sheets, Absorbers & Shielding BMIS-202 Frame .650" x .650"
+F https://componentsearchengine.com/Datasheets/1/BMIS-202-F.pdf
+$ENDCMP
+#
+$CMP BQ24298RTWR
+D bq24298 I2C Controlled 3A Single Cell USB Charger With Narrow VDC Power Path Managementand Adjustable Voltage USB OTG
+K powerpath usb battery
+$ENDCMP
+#
+$CMP BQ27441-G1
+D System Side Li Ion/Polymer Fuel Gauge, PDSON-12
+K Fuel Gauge
+F http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
+$ENDCMP
+#
+$CMP BQ27441DRZR-G1A
+D System Side Li Ion/Polymer Fuel Gauge, 4.2V, PDSON-12
+K Fuel Gauge
+F http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
+$ENDCMP
+#
+$CMP BQ27441DRZR-G1B
+D System Side Li Ion/Polymer Fuel Gauge, 4.30-4.35V, PDSON-12
+K Fuel Gauge
+F http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
+$ENDCMP
+#
+$CMP BQ27441DRZT-G1A
+D System Side Li Ion/Polymer Fuel Gauge, 4.2V, PDSON-12
+K Fuel Gauge
+F http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
+$ENDCMP
+#
+$CMP BQ27441DRZT-G1B
+D System Side Li Ion/Polymer Fuel Gauge, 4.30-4.35V, PDSON-12
+K Fuel Gauge
+F http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf
+$ENDCMP
+#
+$CMP CC1190RGVR
+D 850 - 950MHz RF Front End
+F http://www.ti.com/lit/gpn/cc1190
+$ENDCMP
+#
+$CMP CC1312R1F3RGZR
+D SimpleLink sub-1 GHz wireless MCU
+F http://www.ti.com/lit/gpn/CC1312R
+$ENDCMP
+#
+$CMP ESD5V3U2U
+D Uni-directional Ultra Low ESD / Transient Protection Diode
+K ESD, Schotkky, Diode
+F https://www.mouser.com/datasheet/2/196/Infineon-ESD5V3U2USERIES-DS-v01_03-en-1225601.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-B
+D WiFi Modules (802.11) SMD Module, ESP32-D0WD, 64Mbits PSRAM, 128Mbits SPI flash, PCB Antenna
+F https://www.mouser.es/datasheet/2/891/esp32-wrover-b_datasheet_en-1384674.pdf
+$ENDCMP
+#
+$CMP FT2232H
+D FT2232Hx, Hi Speed Double Channel USB UART/FIFO, LQFP/QFN-64
+K USB Double UART FIFO
+F http://www.ftdichip.com/Products/ICs/FT2232H.html
+$ENDCMP
+#
+$CMP HSMF-C118
+D Broadcom HSMF-C 470 / 525 / 626 nm 3 RGB LED, 4-Pin SMD package
+F https://componentsearchengine.com/Datasheets/2/HSMF-C118.pdf
+$ENDCMP
+#
+$CMP MMBT2222
+D ON SEMICONDUCTOR - NSVMMBT2222AM3T5G - TRANS, NPN, 40V, 0.6A, 150DEG C, 0.64W
+F https://componentsearchengine.com/Datasheets/1/NSVMMBT2222AM3T5G.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP SAW_Filter
+D SAW Filter 915 MHz, 50 Ohm B3588 2.9dB 5V
+K SAW B3588
+F https://www.mouser.com/datasheet/2/842/B3588-1092477.pdf
+$ENDCMP
+#
+$CMP SW_SPST
+D Single Pole Single Throw (SPST) switch
+K switch lever
+F ~
+$ENDCMP
+#
+$CMP TPS7A37
+D  High-Accuracy, 1A, Low-Dropout Regulator With Reverse Current Protection
+$ENDCMP
+#
+$CMP USB_C_Plug_USB2.0
+D USB 2.0-only Type-C Plug connector
+K usb universal serial bus type-C USB2.0
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,19 @@
+.CC1312R1F3RGZR :1 ;SimpleLink sub-1 GHz wireless MCU
+QFN50P700X700X100-49N-D
+*STM IC
+*NGS
+*PLB 1="RF_P" 2="RF_N" 3="RX_TX" 4="X32K_Q1" 5="X32K_Q2" 6="DIO_1" 7="DIO_2" 8="DIO_3" 9="DIO_4" 10="DIO_5" 11="DIO_6" 12="DIO_7" 13="VDDS2" 14="DIO_8" 15="DIO_9" 16="DIO_10" 17="DIO_11" 18="DIO_12" 19="DIO_13" 20="DIO_14" 21="DIO_15" 22="VDDS3" 23="DCOUPL" 24="JTAG_TMSC" 25="JTAG_TCKC" 26="DIO_16" 27="DIO_17" 28="DIO_18" 29="DIO_19" 30="DIO_20" 31="DIO_21" 32="DIO_22" 33="DCDC_SW" 34="VDDS_DCDC" 35="RESET_N" 36="DIO_23" 37="DIO_24" 38="DIO_25" 39="DIO_26" &
+40="DIO_27" 41="DIO_28" 42="DIO_29" 43="DIO_30" 44="VDDS" 45="VDDR" 46="X48M_N" 47="X48M_P" 48="VDDR_RF" 49="EP"
+*MXP 49
+*DFN CC1312R1F3RGZR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CC1312R1F3RGZR)
+~!Arrow Part Number (CC1312R1F3RGZR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cc1312r1f3rgzr/texas-instruments)
+~!Mouser Part Number (595-CC1312R1F3RGZR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CC1312R1F3RGZR?qs=rrS6PyfT74eVsOqebkUCng%3D%3D)
+~!Link Datasheet (http://www.ti.com/lit/gpn/CC1312R)
+~!Height (1mm)
+~!3D_Model (CC1312R1F3RGZR)
+CC1312R1F3RGZR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 49.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

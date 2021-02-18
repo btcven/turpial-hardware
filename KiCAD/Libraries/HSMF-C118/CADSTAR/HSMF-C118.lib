@@ -1,0 +1,18 @@
+.HSMF-C118 :1 ;Broadcom HSMF-C 470 / 525 / 626 nm 3 RGB LED, 4-Pin SMD package
+HSMFC118
+*STM LED
+*NGS
+*PLB 1="COMMON ANODE" 2="RED CATHODE" 3="GREEN CATHODE" 4="BLUE CATHODE"
+*MXP 4
+*DFN HSMF-C118
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (HSMF-C118)
+~!Arrow Part Number (HSMF-C118)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (630-HSMF-C118)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMF-C118?qs=YDL0qNrpDT7rPoesDcOaug%3D%3D)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/HSMF-C118.pdf)
+~!Height (1mm)
+~!3D_Model (HSMF-C118)
+HSMF-C118
+1.1!U 2.1!U 3.1!U 4.1!U 

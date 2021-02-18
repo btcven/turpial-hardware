@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CC1312R1F3RGZR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-09-06:24:17)
+    (mountForm default
+        (footprintRef "QFN50P700X700X100-49N-D")
+        (spec "System")
+    )
+)

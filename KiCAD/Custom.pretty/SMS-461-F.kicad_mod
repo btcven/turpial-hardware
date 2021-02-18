@@ -1,0 +1,58 @@
+(module SMS-461-F (layer F.Cu) (tedit 5F22BFF7)
+  (fp_text reference REF** (at -0.03 -15.16) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SMS-461-F (at 0.04 15.13) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 28.015 0) (end 28.015 -11.04) (layer F.SilkS) (width 0.12))
+  (fp_line (start 28.015 0) (end 28.02 11.04) (layer F.SilkS) (width 0.1))
+  (fp_line (start -28 -11.04) (end -28 11.04) (layer F.SilkS) (width 0.12))
+  (fp_line (start 25.47 13.59) (end -25.47 13.59) (layer F.SilkS) (width 0.12))
+  (fp_line (start -28.365 13.94) (end -28.365 -13.94) (layer Dwgs.User) (width 0.1))
+  (fp_line (start -28.365 -13.94) (end 28.365 -13.94) (layer Dwgs.User) (width 0.1))
+  (fp_line (start 28.365 13.94) (end 28.365 -13.94) (layer Dwgs.User) (width 0.1))
+  (fp_line (start 28.365 13.94) (end -28.365 13.94) (layer Dwgs.User) (width 0.1))
+  (fp_line (start 25.45 -13.59) (end -25.46 -13.59) (layer F.SilkS) (width 0.12))
+  (pad 1 smd custom (at -27.865 13.44) (size 1 1) (layers F.Cu F.Paste F.Mask)
+    (solder_paste_margin_ratio -0.0001) (clearance 0.05)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.5 0.5) (xy -0.5 -2.35) (xy 0.5 -2.35) (xy 0.5 0.5)) (width 0))
+      (gr_poly (pts
+         (xy 2.35 0.5) (xy -0.5 0.5) (xy -0.5 -0.5) (xy 2.35 -0.5)) (width 0))
+    ))
+  (pad 1 smd custom (at -27.865 -13.44 270) (size 1 1) (layers F.Cu F.Paste F.Mask)
+    (solder_paste_margin_ratio -0.0001) (clearance 0.05)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.5 0.5) (xy -0.5 -2.35) (xy 0.5 -2.35) (xy 0.5 0.5)) (width 0))
+      (gr_poly (pts
+         (xy 2.35 0.5) (xy -0.5 0.5) (xy -0.5 -0.5) (xy 2.35 -0.5)) (width 0))
+    ))
+  (pad 1 smd custom (at 27.865 -13.44 180) (size 1 1) (layers F.Cu F.Paste F.Mask)
+    (solder_paste_margin_ratio -0.0001) (clearance 0.05)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.5 0.5) (xy -0.5 -2.35) (xy 0.5 -2.35) (xy 0.5 0.5)) (width 0))
+      (gr_poly (pts
+         (xy 2.35 0.5) (xy -0.5 0.5) (xy -0.5 -0.5) (xy 2.35 -0.5)) (width 0))
+    ))
+  (pad 1 smd custom (at 27.865 13.44 90) (size 1 1) (layers F.Cu F.Paste F.Mask)
+    (solder_paste_margin_ratio -0.0001) (clearance 0.05)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.5 0.5) (xy -0.5 -2.35) (xy 0.5 -2.35) (xy 0.5 0.5)) (width 0))
+      (gr_poly (pts
+         (xy 2.35 0.5) (xy -0.5 0.5) (xy -0.5 -0.5) (xy 2.35 -0.5)) (width 0))
+    ))
+  (model ${KIPRJMOD}/Libraries/SMS-461-F/3D/SMS-461-F.step
+    (offset (xyz -53 38.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+)

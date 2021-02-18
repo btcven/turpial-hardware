@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1312R1F3RGZR
+D SimpleLink sub-1 GHz wireless MCU
+K
+F http://www.ti.com/lit/gpn/CC1312R
+$ENDCMP
+#
+#End Doc Library

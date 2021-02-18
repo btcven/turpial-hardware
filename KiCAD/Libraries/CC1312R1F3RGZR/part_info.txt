@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CC1312R1F3RGZR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=49
+Version=1.1
+Released=2020-01-23 09:36:34
+Downloaded=2020-07-14 19:28:24
+3D=Y

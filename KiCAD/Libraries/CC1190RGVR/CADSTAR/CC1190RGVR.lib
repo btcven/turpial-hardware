@@ -1,0 +1,18 @@
+.CC1190RGVR :1 ;850 - 950MHz RF Front End
+QFN65P400X400X100-17N-D
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="PA_OUT" 3="GND_2" 4="TR_SW" 5="LNA_IN" 6="HGM" 7="LNA_EN" 8="PA_EN" 9="GND_3" 10="LNA_OUT" 11="PA_IN" 12="GND_4" 13="VDD_LNA" 14="BIAS" 15="VDD_PA2" 16="VDD_PA1" 17="GND_5"
+*MXP 17
+*DFN CC1190RGVR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CC1190RGVR)
+~!Arrow Part Number (CC1190RGVR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cc1190rgvr/texas-instruments)
+~!Mouser Part Number (595-CC1190RGVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CC1190RGVR?qs=%2Fqzd9s%252BcLd42dnkMuKJeGg%3D%3D)
+~!Link Datasheet (http://www.ti.com/lit/gpn/cc1190)
+~!Height (1mm)
+~!3D_Model (CC1190RGVR)
+CC1190RGVR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 12.1!U 11.1!U 10.1!U 9.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

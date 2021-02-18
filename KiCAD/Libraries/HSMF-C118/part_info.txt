@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=HSMF-C118
+PartCategory=LED
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2018-07-25 09:12:36
+Downloaded=2020-07-22 17:57:23
+3D=Y

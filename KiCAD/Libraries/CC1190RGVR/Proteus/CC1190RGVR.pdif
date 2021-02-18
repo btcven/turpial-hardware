@@ -1,0 +1,203 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CC1190RGVR"
+   (description "850 - 950MHz RF Front End")
+   (family "ANA")
+   (package "QFN65P400X400X100-17N-D")
+   (attribute "Datasheet Link" "http://www.ti.com/lit/gpn/cc1190")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "CC1190RGVR")
+   (attribute "Arrow Part Number" "CC1190RGVR")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/cc1190rgvr/texas-instruments")
+   (attribute "Mouser Part Number" "595-CC1190RGVR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CC1190RGVR?qs=%2Fqzd9s%252BcLd42dnkMuKJeGg%3D%3D")
+   (gate
+    (symbol "CC1190RGVR")
+    (pin "GND_1" 1 PS)
+    (pin "PA_OUT" 2 PS)
+    (pin "GND_2" 3 PS)
+    (pin "TR_SW" 4 PS)
+    (pin "LNA_IN" 5 PS)
+    (pin "HGM" 6 PS)
+    (pin "LNA_EN" 7 PS)
+    (pin "PA_EN" 8 PS)
+    (pin "GND_4" 12 PS)
+    (pin "PA_IN" 11 PS)
+    (pin "LNA_OUT" 10 PS)
+    (pin "GND_3" 9 PS)
+    (pin "GND_5" 17 PS)
+    (pin "VDD_PA1" 16 PS)
+    (pin "VDD_PA2" 15 PS)
+    (pin "BIAS" 14 PS)
+    (pin "VDD_LNA" 13 PS)
+   )
+  )
+  (symbol "CC1190RGVR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 600) (pt 1200 600) (pt 1200 -800) (pt 200 -800) (pt 200 600) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 800) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "QFN65P400X400X100-17N-D"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.625 2.625)
+      (pt 2.625 2.625)
+      (pt 2.625 -2.625)
+      (pt -2.625 -2.625)
+      (pt -2.625 2.625))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 2)
+      (pt 2 2)
+      (pt 2 -2)
+      (pt -2 -2)
+      (pt -2 2))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 1.35)
+      (pt -1.35 2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.325)
+     (circle
+      (pt -2.212 1.95) (pt -2.537 1.95)
+     )
+    )
+   )
+   (leg 1 (pt -1.85 0.975) (padstack 0))
+   (leg 2 (pt -1.85 0.325) (padstack 0))
+   (leg 3 (pt -1.85 -0.325) (padstack 0))
+   (leg 4 (pt -1.85 -0.975) (padstack 0))
+   (leg 5 (pt -0.975 -1.85) (padstack 1))
+   (leg 6 (pt -0.325 -1.85) (padstack 1))
+   (leg 7 (pt 0.325 -1.85) (padstack 1))
+   (leg 8 (pt 0.975 -1.85) (padstack 1))
+   (leg 9 (pt 1.85 -0.975) (padstack 2))
+   (leg 10 (pt 1.85 -0.325) (padstack 2))
+   (leg 11 (pt 1.85 0.325) (padstack 2))
+   (leg 12 (pt 1.85 0.975) (padstack 2))
+   (leg 13 (pt 0.975 1.85) (padstack 3))
+   (leg 14 (pt 0.325 1.85) (padstack 3))
+   (leg 15 (pt -0.325 1.85) (padstack 3))
+   (leg 16 (pt -0.975 1.85) (padstack 3))
+   (leg 17 (pt 0 0) (padstack 17))
+   (padstack 0
+    (pad (layer TCOP) (path (pt -0.525 0.175) (arc (pt 0.35 0.175) (pt 0.175 -0.175) (pt 0.525 0.175) (start -180) (sweep 90)) (pt 0.35 -0.175) (pt -0.525 -0.175) (pt -0.525 0.175)))
+   )
+   (padstack 1
+    (pad (layer TCOP) (path (pt -0.175 -0.525) (arc (pt -0.175 0.35) (pt -0.175 0.175) (pt 0.175 0.525) (start -180) (sweep 180)) (pt 0.175 0.35) (pt 0.175 -0.525) (pt -0.175 -0.525)))
+   )
+   (padstack 2
+    (pad (layer TCOP) (path (pt 0.525 -0.175) (arc (pt -0.35 -0.175) (pt -0.525 -0.175) (pt -0.175 0.175) (start -180) (sweep 270)) (pt -0.35 0.175) (pt 0.525 0.175) (pt 0.525 -0.175)))
+   )
+   (padstack 3
+    (pad (layer TCOP) (path (pt 0.175 0.525) (arc (pt 0.175 -0.35) (pt -0.175 -0.525) (pt 0.175 -0.175) (start -180) (sweep 0)) (pt -0.175 -0.35) (pt -0.175 0.525) (pt 0.175 0.525)))
+   )
+   (padstack 17
+    (plated false)
+    (pad (layer TCOP) (rectf 2.26 2.26 0 0 90))
+   )
+   (model "CC1190RGVR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

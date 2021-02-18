@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# HSMF-C118
+#
+DEF HSMF-C118 LED 0 30 Y Y 1 F N
+F0 "LED" -350 300 50 H V L CNN
+F1 "HSMF-C118" -350 200 50 H V L CNN
+F2 "HSMFC118" 950 250 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/HSMF-C118.pdf" 950 150 50 H I L CNN
+F4 "Broadcom HSMF-C 470 / 525 / 626 nm 3 RGB LED, 4-Pin SMD package" 950 50 50 H I L CNN "Description"
+F5 "1" 950 -50 50 H I L CNN "Height"
+F6 "Avago Technologies" 950 -150 50 H I L CNN "Manufacturer_Name"
+F7 "HSMF-C118" 950 -250 50 H I L CNN "Manufacturer_Part_Number"
+F8 "HSMF-C118" 950 -350 50 H I L CNN "Arrow Part Number"
+F9 "630-HSMF-C118" 950 -550 50 H I L CNN "Mouser Part Number"
+F10 "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMF-C118?qs=YDL0qNrpDT7rPoesDcOaug%3D%3D" 950 -650 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 -350 150 450 150 450 -150 -350 -150 -350 150 f
+X COMMON_ANODE 1 650 0 200 L 50 50 0 0 P
+X R 2 -550 100 200 R 50 50 0 0 P
+X G 3 -550 0 200 R 50 50 0 0 P
+X B 4 -550 -100 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

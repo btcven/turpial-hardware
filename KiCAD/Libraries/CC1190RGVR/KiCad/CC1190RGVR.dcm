@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1190RGVR
+D 850 - 950MHz RF Front End
+K
+F http://www.ti.com/lit/gpn/cc1190
+$ENDCMP
+#
+#End Doc Library

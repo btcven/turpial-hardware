@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HSMF_C118'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "HSMF-C118" (!) = "", "HSMFC118", "Other", "HSMF-C118", "", "630-HSMF-C118", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/HSMF-C118?qs=YDL0qNrpDT7rPoesDcOaug%3D%3D", "Broadcom HSMF-C 470 / 525 / 626 nm 3 RGB LED, 4-Pin SMD package", "https://componentsearchengine.com/Datasheets/2/HSMF-C118.pdf", "1 mm"
+END_PART
+
+END.

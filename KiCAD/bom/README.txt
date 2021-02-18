@@ -1,0 +1,5 @@
+- SM: Surface Mount
+- TH:Through Hole.
+- DNI: Do Not Include.
+- DNM: Include the component in the budget but don't mount it
+- DNI-915: Do Not Include for 915MHz

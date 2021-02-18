@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HSMF-C118
+D Broadcom HSMF-C 470 / 525 / 626 nm 3 RGB LED, 4-Pin SMD package
+F https://componentsearchengine.com/Datasheets/2/HSMF-C118.pdf
+$ENDCMP
+#
+#End Doc Library

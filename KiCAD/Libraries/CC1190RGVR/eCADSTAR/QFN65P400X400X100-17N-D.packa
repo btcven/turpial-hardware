@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CC1190RGVR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-02-03:30:56)
+    (mountForm default
+        (footprintRef "QFN65P400X400X100-17N-D")
+        (spec "System")
+    )
+)
